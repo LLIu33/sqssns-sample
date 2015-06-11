@@ -1,0 +1,16 @@
+{
+  "name": "snssqs-sample",
+  "version": "1.0.0",
+  "description": "Sample app with aws-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem G. <artem@intspirit.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1.18",
+    "util": "0.10.x",
+    "async": "0.9.x"
+  }
+}
